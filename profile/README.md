@@ -31,5 +31,5 @@ WP Job Manager is trusted by thousands of job sites worldwide. It integrates sea
 
 ---
 
-**© WP Job Manager Pro. All rights belong to their respective owners.**
+**WP Job Manager Pro. All rights belong to their respective owners.**
 
