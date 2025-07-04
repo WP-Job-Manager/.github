@@ -1,6 +1,6 @@
 # WP Job Manager Pro – Free Download
 
-![WP Job Manager](https://github.com/wp-job-manager/wp-job-manager.github.io/blob/main/wp_job_manager_banner.jpg?raw=true)
+![WP Job Manager](https://github.com/WP-Job-Manager/.github/blob/main/wp_job_manager_plugin.jpg?raw=true)
 
 ## 💼 Build Powerful Job Boards with Ease
 
